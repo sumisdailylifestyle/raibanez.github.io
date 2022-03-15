@@ -1,0 +1,40 @@
+.end {background-color: rgb(208, 214, 214); height: 200px; padding: 30px;}
+.font-1 {font-family: 'Poppins', sans-serif; color: white;}
+.cute {border-radius: 20px;}
+.box {height: 30px; width: 250px; background-color: white; border-color: white;}
+.button-1 {height: 30px; width: 60px; background-color: white; border-color: white; }
+#background-video {
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  z-index: -1;
+  opacity: 0.5
+}
+.topnav {
+  background-color: rgb(208, 214, 214);
+  overflow: hidden;
+}
+
+.topnav a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+h1:hover {color: black; font-family: 'Poppins', sans-serif;
+.font-2 {font-family: 'Poppins', sans-serif; color: black;}
